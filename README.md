@@ -4,7 +4,7 @@
 
   &nbsp;
 
-  ## 👦 whoami ##
+  ## 👦 whoami ? ##
   
   <div align="start">
 
@@ -18,7 +18,7 @@
 
   <div align="center">
   
-  ## My skills ##
+  ##  <img src="https://media.giphy.com/media/2xPPf6WspXkXbB49bW/giphy.gif" width="30px"/> My skills ##
 
   &nbsp;
 
@@ -54,15 +54,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" title="ansible" alt="ansible logo" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="github" alt="github logo" width="40" height="40"/>
     <!-- <img src="" title="" alt="" width="40" height="40"/> -->
-  </div>
+  
   
   &nbsp;
+
+  Want to see more ? Come visit me at <a href="taojouet.com" target="_blank">taojouet.com</a> !
+</div>
 
   -----------------
 
 <div align="center">
-
-  ## 📭 Contact me ! ##
+  
+  ##  <img src="https://media.giphy.com/media/ycHaDxBUfPKqFBByBO/giphy.gif" width="30px"/> Let's get in touch ! ##
   &nbsp;
 
   <a href="mailto:contact@taojouet.com" target="_blank">
