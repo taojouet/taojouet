@@ -29,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="" alt="" width="40" height="40"/>
   <!-- <img src="" title="" alt="" width="40" height="40"/> -->
   
+  </br>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="" alt="" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="" alt="" width="40" height="40"/>
@@ -36,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="" alt="" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="" alt="" width="40" height="40"/>
   <!-- <img src="" title="" alt="" width="40" height="40"/> -->
-  &nbsp;
+  </br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="C"  alt="C" width="40" height="40"/>
 
