@@ -8,7 +8,7 @@
   
   <div align="start">
 
-  ### I am a french computer science student based in Montpellier. I am passionate about web development ! On this github you will find some of my projects, feel free to take a look at them !
+  ### I am a french computer science student based in Montpellier. I am passionate about development and technology ! On this github you will find some of my projects, feel free to take a look at them !
 
   <div>
 
