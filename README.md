@@ -15,6 +15,19 @@
   &nbsp;
 
   -------------------
+<div align="center">
+
+  ## 📈 My GitHub Stats ##
+
+  &nbsp;
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=taojouet&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=taojouet&theme=gruvbox)](https://git.io/streak-stats)
+
+</div>
+
+  -------------------
 
   <div align="center">
   
