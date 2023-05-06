@@ -7,13 +7,22 @@
   ## 👦 whoami ? ##
   
   <div align="start">
-
+  
   ### I am a french computer science student based in Montpellier. I am passionate about development and technology ! On this github you will find some of my projects, feel free to take a look at them !
 
 
 
   &nbsp;
 
+  <div>
+
+
+<div align="center">
+
+## 📈 My GitHub Stats ##
+&nbsp;
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=taojouet&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=taojouet&theme=gruvbox)](https://git.io/streak-stats)
 
   <div>
 
