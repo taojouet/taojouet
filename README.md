@@ -11,11 +11,11 @@
   ### I am a french computer science student based in Montpellier. I am passionate about development and technology ! On this github you will find some of my projects, feel free to take a look at them !
 
 
-  <div>
 
   &nbsp;
 
 
+  <div>
 
   <div align="center">
   
@@ -62,8 +62,6 @@
 
   Want to see more ? Come visit me at <a href="https://taojouet.com" target="_blank">taojouet.com</a> !
 </div>
-
-  -----------------
 
 <div align="center">
   
